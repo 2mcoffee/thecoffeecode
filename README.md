@@ -1,2 +1,2 @@
 # thecoffeecode
- The Coffee Code Template for Wordpress
+Free WordPress starter theme with Bootstrap and a modern development workflow.
